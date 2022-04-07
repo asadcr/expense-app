@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/expense-app/static/css/main.f13c8a01.css",
+    "main.js": "/expense-app/static/js/main.e1ac1079.js",
+    "static/js/651.4bad3c94.chunk.js": "/expense-app/static/js/651.4bad3c94.chunk.js",
+    "static/js/787.0a10ec7e.chunk.js": "/expense-app/static/js/787.0a10ec7e.chunk.js",
+    "static/media/primeicons.svg": "/expense-app/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "/expense-app/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/expense-app/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/expense-app/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "index.html": "/expense-app/index.html",
+    "main.f13c8a01.css.map": "/expense-app/static/css/main.f13c8a01.css.map",
+    "main.e1ac1079.js.map": "/expense-app/static/js/main.e1ac1079.js.map",
+    "651.4bad3c94.chunk.js.map": "/expense-app/static/js/651.4bad3c94.chunk.js.map",
+    "787.0a10ec7e.chunk.js.map": "/expense-app/static/js/787.0a10ec7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f13c8a01.css",
+    "static/js/main.e1ac1079.js"
+  ]
+}
